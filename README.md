@@ -14,6 +14,7 @@ If you are on Mac or Linux download the latest .py from releases and then run th
 pip install pytube pysimplegui
 ```
 After that, run the .py file with an IDE or some other way to run .py's\
+From my limited testing the .exe should be able to run on linux with wine installed\
 Also, Mac and Linux users can build their own binary from source, instructions below
 # How to build binary from source
 If you would like to build your own binary (for the OS you are on) from source you need to
