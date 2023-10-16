@@ -8,14 +8,17 @@ A simple and easy to use youtube video downloader with a graphical user interfac
 - If you would like to, set the download path you would like everything to be downloaded to
 - Finally, hit download and it will get to work
 # Downloading
-If you are on Windows, go to the latest release and download the .exe from releases\
-If you are on Mac download the latest .py from releases and then run these commands in some sort of command prompt:
+Follow the instructions for your operating system below
+## Windows
+Go to the latest release and download the .exe from releases
+## MacOS
+Download the latest .py from releases and then run these commands in some sort of command prompt:
 ```
 pip install pytube pysimplegui
 ```
 After that, run the .py file with an IDE or some other way to run .py's\
-Linux users may follow the instructions for Mac, but from my limited testing using wine to run the .exe works great too.
-Also, Mac and Linux users can build their own binary from source, instructions below
+## Linux
+Linux users may follow the instructions for Mac, but from my limited testing using wine to run the .exe works great too
 # How to build binary from source
 If you would like to build your own binary (for the OS you are on) from source you need to
 - Clone the repository
